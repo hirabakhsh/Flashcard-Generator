@@ -1,7 +1,6 @@
-
 function BasicCard(Front, Back) {
-	this.Front = Front;
-	this.Back = Back;
+	this.front = Front;
+	this.back = Back;
 }
 
 module.exports = BasicCard;
